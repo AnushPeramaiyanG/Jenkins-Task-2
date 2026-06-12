@@ -10,4 +10,4 @@ echo "Build Completed"
 
 echo "Jenkin Task 2 - Test"
 
-echo "Jenkin Task 2 - New Commit Test"
+echo "Jenkin Task 2 - New Commit Test 1"
