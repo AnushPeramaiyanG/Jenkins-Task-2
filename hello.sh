@@ -8,4 +8,4 @@ echo "Hello from Jenkins"
 
 echo "Build Completed"
 
-echo "New Commit Test"
+echo "Jenkin Task 2 - Test"
