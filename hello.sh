@@ -7,3 +7,5 @@ date
 echo "Hello from Jenkins"
 
 echo "Build Completed"
+
+echo "New Commit Test"
